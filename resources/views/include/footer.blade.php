@@ -9,7 +9,7 @@
         </strong>
         All rights reserved.
         <!--end::Copyright-->
-      </footer>
+  </footer>
       <!--end::Footer-->
     </div>
     <!--end::App Wrapper-->
